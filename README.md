@@ -6,3 +6,7 @@ My Individual Tasks:
 
 - Logging System
 - Integrating Lua into the Engine.
+
+WASD - To control the editor camera
+
+Q-Z - To move up and down with the editor camera
